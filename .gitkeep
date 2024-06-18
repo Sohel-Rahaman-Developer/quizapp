@@ -1,0 +1,6 @@
+type NUL > components\.gitkeep
+type NUL > data\.gitkeep
+type NUL > hooks\.gitkeep
+type NUL > lib\.gitkeep
+type NUL > utils\.gitkeep
+
